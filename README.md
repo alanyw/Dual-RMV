@@ -40,5 +40,6 @@ cd sh
 sh cifar10.sh
 ```
 
-
+Denote that our work are significantly inspried by Gong, et.al., 《Not All Edges are Equally Robust: Evaluating the Robustness of Ranking-Based Federated Learning》, the source code at https://github.com/ gongzir1/VEM.
+Thanks a lot to their contributions. 
 
